@@ -2,6 +2,7 @@
   "name": "react-api",
   "version": "0.1.0",
   "private": true,
+  "homepage": "mi-linux.wlv.ac.uk/~2024684/testing",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
